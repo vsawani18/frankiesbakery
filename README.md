@@ -1,15 +1,14 @@
 
 
-This is using a react template to make Vertical Careers a One Page site!
+Using a react template for Frankie's Bakery 
 
 
+---NOTE:
+Frankie's Bakery is a fictional business created for demonstrative purposes only
 
----
-From OG Author of template
 
-Change the data in the data.json file as well as add any images to public/img/ You can also change styles by modifying the public/css files. 
-
-If you need the contact form to work, you also need to create an EmailJS account, and modify the src/components/contact.jsx file to replace your own service ID, template ID and Public Key
+---WEBSITE TEMPLATE---
+The original Author of the Template that is used came from the following two sources
 
 From Author template
 https://react-landing-page-template-93ne.vercel.app/#contact
